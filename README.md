@@ -1,6 +1,6 @@
 # Project_movies
 
-Welcome to the Movie Recommender System! This project leverages vectorization and cosine similarity to suggest the top five movies based on user input. The application is built using Streamlit for a user-friendly and interactive interface.
+Welcome to the Movies! This project leverages vectorization and cosine similarity to suggest the top five movies based on user input. The application is built using Streamlit for a user-friendly and interactive interface.
 
 ## How It Works
 
